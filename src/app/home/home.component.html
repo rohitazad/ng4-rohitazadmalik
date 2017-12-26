@@ -1,0 +1,57 @@
+
+<section id="" class="big-name">
+    <div class="sticky-paper-head has-shadow ">
+        <div class="content">
+            <h1 [title]="rohitTitle">{{name}}</h1> 
+            <div class="short-tag"> {{position}}</div>
+        </div>
+        <div class="shadow"></div>
+    </div>
+    <div class="sticky-paper-body has-shadow">
+        <div class="content">
+            <div class="row">
+                <div class="col-xs-12 col-md-7">
+                    <div class="le-paragraph">
+                        <p *ngFor='let text of aboutText'>
+                            <span [innerHTML]="text"></span>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-md-5">
+                    <div class="tabled-info-holder">
+                        <ul class="info-holder">
+                          <li>
+                            <div class="info-item"> <i class="fa fa-envelope"></i> <span>{{emailId}}</span> </div>
+                          </li>
+                          <li>
+                            <div class="info-item"> <i class="fa fa-twitter"></i> <span>Twitter: <a [href]="twitter" target="_blank">{{twitterName}}</a></span> </div>
+                          </li>
+                        </ul>
+                        <ul class="info-holder">
+                          <li>
+                            <div class="info-item"> <i class="fa fa-map-marker"></i> <span>{{address}}</span> </div>
+                          </li>
+                          <li>
+                            <div class="info-item"> <i class="fa fa-phone"></i> <span>{{contactNo}}</span> </div>
+                          </li>
+                        </ul>
+                        <div class="social-icons small">
+                          <ul>
+                            <li> <a class="fa fa-facebook" target="_blank" title="Facebook" [href]="facebook"></a> </li>
+                            <li> <a class="fa fa-twitter" target="_blank" title="Twitter" [href]="twitter"></a> </li>
+                            <li> <a class="fa fa-google-plus" target="_blank" title="Google Plus" [href]="googelPlus"></a> </li>
+                            <li> <a class="fa fa-linkedin" target="_blank" title="Linkedin" [href]="linkedin"></a> </li>
+                            <li> <a class="fa fa-stack-overflow" target="_blank" title="Stack Overflow" [href]="stackUrl"></a> </li>
+                          </ul>
+                        </div>
+                        <div class="stacprofile"> <a target="_blank" [href]="stackUrl"> <img [src]="stackImg" width="208" height="58" [alt]="stackAlt" [title]="stackTitle" /> </a> </div>
+                      </div>
+            
+                </div>
+            </div>
+        </div>
+    </div>
+    
+      
+    </section>
+    

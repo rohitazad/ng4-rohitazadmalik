@@ -1,0 +1,21 @@
+.projectSec{
+    height: 375px;
+    min-height: 375px;
+    margin:10px 0;
+}
+.panel-primary > .panel-heading span {
+    font-size: 10px;
+    font-weight: bold;
+    color: #000;
+}
+
+@media  screen 
+and (min-device-width: 320px) 
+and (max-device-width: 668px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    .projectSec{
+        height: auto;
+        min-height: auto;
+        margin:10px 0;
+    }
+}

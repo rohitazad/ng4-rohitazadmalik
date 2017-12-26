@@ -1,0 +1,81 @@
+[
+    {"company":[
+        {
+            "id":1,
+            "name":"Times Internet (Times Of India) ",
+            "expe":"2015-till now",
+            "timeDuration":"June 2015 – till now",
+            "position":"Senior Officer - Frontend Technology",
+            "summery":"We developed our own product/portals (ET.COM) for user profile for Public. I'm working on UI  Development in HTML5, CSS3, jQuery/javaScript, LESS, and bootstrap.",
+            "role":""
+        },
+        {"id":2,
+            "name":"Wincere Solutions Pvt Ltd ",
+            "expe":"2014-2015",
+            "timeDuration":"August 2014 – June 2015 (10 months)",
+            "position":"sr. ui consultant developer",
+            "summery":" We developed our own product for Public, Private sectors. I'm working on Sr. UI Development in HTML5, CSS3, Bootstrap, Angular Js. ",
+            "role":""
+        },
+        {"id":3,
+        "name":"HCentive Technology India Pvt Ltd ",
+            "expe":"2013-2014",
+            "timeDuration":"February 2013 – August 2014 (1 year 7 months)",
+            "position":"ui developer",
+            "summery":" We developed our own product/portals for US Medical Healthcare Insurance for Public, Private sectors, Admin, Exchange admin. I'm working on UI Development in HTML5, CSS3, jQuery/javaScript. Here I learned working on LESS, and bootstrap. ",
+            "role":""
+        },
+        {"id":4,
+            "name":"ophio computer solutions pvt ltd ",
+            "expe":"2012-2013",
+            "timeDuration":"March 2012 – January 2013 (11 months) ",
+            "position":"front end developer",
+            "summery":"",
+            "role":[
+                "Working as a Front End Developer",
+                "Psd to HTML slicing and coding ",
+                "Slicing for the iphone and android mobile application.",
+                "Maintenance clients websites and portal.",
+                "Working HTML5, Css3, Responsive Design (for iphone and smartphone)."
+            ]
+        },
+        {"id":5,
+            "name":"Compare Infobase Limited ",
+            "expe":"2011-2012",
+            "timeDuration":"June 2011 – March 2012 (10 months) ",
+            "position":"HTML developer",
+            "summery":"",
+            "role":[
+                "Working as Programmer.",
+                "Resolve bugs and cross browser compatibility issues",
+                "Develop User Interface and user experience, web content development, content editing",
+                "Troubleshoot and debug UI issues including scripting errors.",
+                "Conduct usability testing based on standard checklist",
+                "Pair with Designers and Developers to ensure sound and efficient approach to UI Development.",
+                "Produced websites (HTML, XHTML, XML, XSLT, CSS, CSS Spirit, etc.) for clients or internal use from prototypes or designs",
+                "Table / table less HTML (XHTML) and CSS Development",
+                "W3C Validation"
+            ]
+        },
+        {
+            "id":6,
+            "name":"Satibha Net Technology  ",
+            "expe":"2009-2011",
+            "timeDuration":"January 2009 – March 2011 (2 years 3 month) ",
+            "position":"Web Designer",
+            "summery":"",
+            "role":[
+                "Working as web designer and html developer.",
+                "Designing different type of website templates for real estates developers",
+                "Maintenance clients websites and portal.",
+                "Creating high end designs/visuals for brand websites, micro sites, portal designs, static and e-commerce websites",
+                "Take care of website servers, FTP details.",
+                "Pair with Designers and Developers to ensure sound and efficient approach to UI Development.",
+                "Produced websites (HTML, XHTML, XML, XSLT, CSS, CSS Spirit, etc.) for clients or internal use from prototypes or designs",
+                "Table / table less HTML (XHTML) and CSS Development",
+                "W3C Validation"
+            ]
+        }
+    ]},
+    {"interset":""}
+]

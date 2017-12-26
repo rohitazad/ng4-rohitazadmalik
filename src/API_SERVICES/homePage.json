@@ -1,0 +1,42 @@
+
+[
+    {"name":"Rohit Azad"},
+    {"rohitTitle":"Rohit Azad - Senior Officer - Frontend Technology,   Sr. UI Consultant Developer"},
+    {"position":"SR. UI CONSULTANT DEVELOPER"},
+    {"aboutText":[
+        "I am Rohit Azad, a <strong>User Interface Developer</strong>. I create beautiful, usable, professional websites using best practice accessibility and familiar with clean, interactive, responsible Designs .",
+        "I like to work with passion for building cutting-edge, rich user interface with a nice coding standard and keep W3C web-standard in mind.",
+        "I Love my job and do it with Passion. And day by day I learn a lot of things and I am looking forward to growing even more."
+    ]},
+    {"contactNo":"+91 (9953) 878727"},
+    {"emailId":"ram9953878727@gmail.com"},
+    {"address":"Live in: Delhi, India"},
+    {"twitter":"https://twitter.com/iamrohitazad", "twitterName":"iamrohitazad"},
+    {"facebook":"https://www.facebook.com/IamRohitAzad"},
+    {"googelPlus":"https://plus.google.com/111154228660835588284/posts"},
+    {"linkedin":"http://in.linkedin.com/in/rohitazad"},
+    {"stackUrl":"http://stackoverflow.com/users/1365428/rohit-azad",     "stackImg":"http://stackoverflow.com/users/flair/1365428.png","stackAlt":"profile for Rohit Azad at Stack Overflow, Q&amp;A for professional and enthusiast programmers", "stackTitle":"profile for Rohit Azad at Stack Overflow, Q&A for professional and enthusiast programmers"},
+    {"dob":"01-January"},
+    {"profileData":[
+        {"availability":"Not Available For Full-Time"},
+        {"hobby":[
+            {"name":"Coding","icon":"fa-code"},
+            {"name":"Foods","icon":"fa-cutlery"},
+            {"name":"Science","icon":"fa-graduation-cap"},
+            {"name":"Nature","icon":"fa-leaf"},
+            {"name":"Music","icon":"fa-music"},
+            {"name":"Travel","icon":"fa-plane"},
+            {"name":"Writing","icon":"fa-pencil"},
+            {"name":"Coffee","icon":"fa-coffee"}]},
+        {"interset":[
+            {"name":"Space", "icon":"fa-rocket"},
+            {"name":"road Trip", "icon":"fa-road"},
+            {"name":"dogs", "icon":"fa-paw"},
+            {"name":"art", "icon":"fa-paint-brush"},
+            {"name":"Music", "icon":"fa-music"},
+            {"name":"Travel", "icon":"fa-plane"},
+            {"name":"Writing", "icon":"fa-pencil"},
+            {"name":"Coffee", "icon":"fa-coffee"}
+        ]}
+    ]}
+]

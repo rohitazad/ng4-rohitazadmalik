@@ -1,0 +1,66 @@
+
+<section>
+  <div class="sticky-paper-head has-shadow ">
+            <div class="content">
+              <h1>{{title}}</h1>
+            </div>
+          <div class="shadow"></div></div>
+  <div class="sticky-paper-body has-shadow " >
+    <div class="content">
+      <div class="row">
+        <div class="col-xs-12">
+    
+   
+      <form class="form-horizontal">
+        <div class="form-group">
+          <label for="itemFilter" class="col-sm-3 control-label">Search by any keyword:- </label>
+          <div class="col-sm-9">
+            <input type="text" [(ngModel)]="listFilter" name="testfilter" class="form-control" id="itemFilter"  placeholder="" />
+          </div>
+        </div>
+      </form>
+      
+      <div><strong>Filter By</strong> : - {{listFilter}}</div>
+    
+    
+<div class="col-sm-4 projectSec" *ngFor="let work of portfolioList | search:'id,companyName,projectName,technologyUsed':listFilter">
+<div class="panel panel-primary">
+  <div class="panel-heading"><span>{{work.id}} - </span>{{work.companyName}}</div>
+  <div class="panel-body">
+      <div class=""> 
+          <table class="table table-user-information">
+            <tbody>
+              <tr>
+                <td>Project Name:</td>
+                <td><span [title]="work.projectName">{{work.projectName | truncate:[25]}}</span></td>
+              </tr>
+              <tr>
+                <td>Duration:</td>
+                <td><span [title]="work.projectDuration">{{work.projectDuration}}</span></td>
+              </tr>
+              <tr>
+                <td>Technology:</td>
+                <td><span [title]="work.technologyUsed">{{work.technologyUsed | truncate:[60] }} </span></td>
+              </tr>
+              <tr>
+                <td>Description:</td>
+                <td><span [title]="work.projectDescription">{{work.projectDescription | truncate:[100] }}</span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+  </div>
+  <div class="panel-footer">
+    <a [href]="work.projectLink" target="_blank" class="btn btn-primary">Visit site</a>
+  </div>
+</div>
+</div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

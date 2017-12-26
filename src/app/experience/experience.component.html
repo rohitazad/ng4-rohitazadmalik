@@ -1,0 +1,46 @@
+
+<section>
+    <div class="sticky-paper-head has-shadow ">
+                <div class="content">
+                  <h1>{{title}}</h1>
+                </div>
+              <div class="shadow"></div></div>
+    
+    
+      <div class="sticky-paper-body has-shadow " >
+        <div class="content">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="timeline-holder wow bounceInUp" >
+                <div class="timeline-head event-head">
+                  <div class="icon"> <i class="fa fa-suitcase"></i> </div>
+                </div>
+                <div class="timeline-body">
+                  
+                  <div class="event-item timeline-item" *ngFor="let _data of company; let index =index;
+                  let isOdd=odd;
+                  let isEven=even">
+                      <div class="event-title"
+                          [class.right]="isOdd" 
+                          [class.left]="isEven">
+                        <h2  class="sub-head-ex">{{_data.position}}</h2>
+                        <h4>{{_data.name}} <small [title]="_data.timeDuration">{{_data.expe}}</small></h4>
+                      </div>
+                      <div class="event-content timeline-content" [class.left]="isOdd" 
+                          [class.right]="isEven">
+                        <p *ngIf="_data.summery !== '' ">{{_data.summery}}</p>
+                        <div *ngIf="_data.role !== '' ">
+                            <ul class="workCompany">
+                                <li *ngFor="let list of _data.role">{{list}}</li>
+                            </ul>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    

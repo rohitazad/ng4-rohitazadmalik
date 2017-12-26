@@ -1,0 +1,31 @@
+
+<section>
+  <div class="sticky-paper-head has-shadow ">
+            <div class="content">
+              <h1>{{title}}</h1>
+            </div>
+          <div class="shadow"></div></div>
+  <div class="sticky-paper-body has-shadow " >
+    <div class="content">
+      <div class="row">
+        <div class="col-xs-12">
+    
+   
+          <div class="skill-wrapper" *ngFor="let item of skillValue">
+              <p>{{item.title}}</p>
+              <div class="skill-container">
+                  <div class="skill html " [ngStyle]="{'width':item.current+'%', 'background-color':item.color}">{{item.current}}</div>
+              </div>
+          </div>
+    
+    
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

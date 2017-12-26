@@ -1,0 +1,99 @@
+
+<section>
+  <div class="sticky-paper-head has-shadow ">
+            <div class="content">
+              <h1>{{title}}</h1>
+            </div>
+          <div class="shadow"></div></div>
+  <div class="sticky-paper-body has-shadow " >
+    <div class="content">
+      <div class="row">
+        <div class="col-xs-12 col-lg-6">
+          <div class="timeline-holder wow bounceInUp">
+            <div class="timeline-head">
+              <div class="icon"> <i class="fa fa-user"></i> </div>
+            </div>
+            <div class="timeline-body">
+              <div class="profile-item timeline-item">
+                <div class="icon-item left">
+                  <div class="circular-icon "> <i class="fa fa-child"></i> </div>
+                </div>
+                <div class="profile-content timeline-content right">
+                  <label>full name</label>
+                  <div class="value">{{name}}</div>
+                </div>
+              </div>
+              <div class="profile-item timeline-item">
+                <div class="icon-item right">
+                  <div class="circular-icon"> <i class="fa fa-envelope"></i> </div>
+                </div>
+                <div class="profile-content timeline-content left">
+                  <label>email address</label>
+                  <div class="value" style="margin-left:-45px;">{{emailId}} </div>
+                </div>
+              </div>
+              <div class="profile-item timeline-item">
+                <div class="icon-item left">
+                  <div class="circular-icon"> <i class="fa fa-birthday-cake"></i> </div>
+                </div>
+                <div class="profile-content timeline-content right">
+                  <label>birthday</label>
+                  <div class="value">{{dob}}</div>
+                </div>
+              </div>
+              <div class="profile-item timeline-item">
+                <div class="icon-item right">
+                  <div class="circular-icon "> <i class="fa fa-phone"></i> </div>
+                </div>
+                <div class="profile-content timeline-content left">
+                  <label>Phone</label>
+                  <div class="value">{{contactNo}}</div>
+                </div>
+              </div>
+              <div class="profile-item timeline-item">
+                <div class="icon-item left">
+                  <div class="circular-icon left"> <i class="fa fa-code"></i> </div>
+                </div>
+                <div class="profile-content timeline-content right">
+                  <label>Availability</label>
+                  <div class="value">{{availability}}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-lg-6">
+          <div class="interests-holder">
+            <!-- <div class="interests-row medium">
+              <ul>
+                <li class="wow bounceInDown" data-wow-delay="0.1s" > <i class="fa fa-code"></i> <span>{{hobby[0]}}</span> </li>
+              </ul>
+            </div> -->
+            <div class="interests-row medium">
+              <ul>
+                <li *ngFor="let item of hobby" class=""> <i class="fa fa-code" [ngClass]="item.icon"></i> <span>{{item.name}}</span> </li>
+              </ul>
+            </div>
+            <div class="title"  >
+              <h1>hobbies & interests</h1>
+            </div>
+            <div class="interests-row medium">
+              <ul>
+                <li *ngFor="let item of interset" class=""> <i class="fa fa-code" [ngClass]="item.icon"></i> <span>{{item.name}}</span> </li>
+              </ul>
+            </div>
+            <!-- <div class="title wow fadeIn"  >
+              <h1>hobbies & interests</h1>
+            </div>
+            <div class="interests-row medium">
+              <ul>
+                <li class="wow bounceInDown" data-wow-delay="0.1s" > <i class="fa fa-code"></i> <span>{{hobby[0]}}</span> </li>
+              </ul>
+            </div> -->
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
