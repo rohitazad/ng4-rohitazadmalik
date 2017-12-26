@@ -1,3 +1,10 @@
+
+First of open you git hub 
+1. git clone https://github.com/rohitazad/ng4-rohitazadmalik.git
+2. opne you commond line go to cd ng4-rohitazadmalik  and run to this commond npm install
+3. npm start
+4. open your browser http://localhost:4200/  run your application
+
 # NGRAM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.2.
