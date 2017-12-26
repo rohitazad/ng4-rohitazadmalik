@@ -12,7 +12,7 @@ import { ISkillData } from '../skill/skill';
 @Injectable()
 export class SkillService {
 
-  private _sakillApiUrl:string = 'http://rohitazad.com/ng4-rohitazadmalik/API_SERVICES/skillPage.json';
+  private _sakillApiUrl:string = './../API_SERVICES/skillPage.json';
   
   constructor(private _http: HttpClient) { }
 

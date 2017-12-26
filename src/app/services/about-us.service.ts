@@ -11,7 +11,7 @@ import { IAboutData } from '../about/about';
 @Injectable()
 export class AboutUsService {
 
-  private _homeApiUrl:string = 'http://rohitazad.com/ng4-rohitazadmalik/API_SERVICES/aboutPage.json'
+  private _homeApiUrl:string = './../API_SERVICES/aboutPage.json'
   constructor(private _http: HttpClient) { }
 
   getData():Observable<[IAboutData]>{

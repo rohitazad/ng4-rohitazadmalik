@@ -15,7 +15,7 @@ export class PortfolioService {
 
 
 
-  private _portfolioApiUrl:string = 'http://rohitazad.com/ng4-rohitazadmalik/API_SERVICES/portfolioPage.json'
+  private _portfolioApiUrl:string = './../API_SERVICES/portfolioPage.json'
   constructor(private _http: HttpClient) { }
 
 

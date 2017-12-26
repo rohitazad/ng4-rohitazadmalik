@@ -11,7 +11,7 @@ import { IBlogData } from '../blog/blog';
 
 @Injectable()
 export class BlogService {
-  private _blogSerApi:string = 'http://rohitazad.com/ng4-rohitazadmalik/API_SERVICES/blogPage.json';
+  private _blogSerApi:string = './../API_SERVICES/blogPage.json';
   constructor(private _http:HttpClient) { }
 
   getData():Observable<[IBlogData]>{

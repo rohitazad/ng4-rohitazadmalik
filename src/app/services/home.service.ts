@@ -11,7 +11,7 @@ import { IHomeData } from '../home/home';
 @Injectable()
 export class HomeService {
 
-  private _homeApiUrl:string = 'http://rohitazad.com/ng4-rohitazadmalik/API_SERVICES/homePage.json'
+  private _homeApiUrl:string = './../API_SERVICES/homePage.json'
   constructor(private _http: HttpClient) { }
 
 

@@ -11,7 +11,7 @@ import { IExperienceData } from '../experience/experience';
 @Injectable()
 export class ExperienceService {
 
-  private _homeApiUrl:string = 'http://rohitazad.com/ng4-rohitazadmalik/API_SERVICES/experiences.json'
+  private _homeApiUrl:string = './../API_SERVICES/experiences.json'
   constructor(private _http: HttpClient) { }
 
   getData():Observable<[IExperienceData]>{
