@@ -1,0 +1,179 @@
+
+[
+    {"portfolioList":[
+        {
+            "id":19,
+            "companyName":" Times Internet (Times Of India) ET.COM ",
+            "projectName":"Newsletters Subscription - The Economic Times",
+            "projectDuration": "June 2015 to Till Now",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Sprite Image  CMS etc.",
+            "projectDescription":"All newsletter responsive create & check loading time and error free code",
+            "projectLink":"http://economictimes.indiatimes.com/subscription"
+        },
+        {
+            "id":18,
+            "companyName":" Times Internet (Times Of India) ET.COM ",
+            "projectName":"Alerts  - The Economic Times",
+            "projectDuration": "June 2015 to Till Now",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Sprite Image CMS etc.",
+            "projectDescription":"Alert projects created.",
+            "projectLink":"http://economictimes.indiatimes.com/stock-price-alerts/pricealerts.cms"
+        },
+        {
+            "id":17,
+            "companyName":" Times Internet (Times Of India) ET.COM ",
+            "projectName":"Subscription - The Economic Times",
+            "projectDuration": "June 2015 to Till Now",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Json, API, Sprite Image CMS etc.",
+            "projectDescription":"All subscription flow created with code ",
+            "projectLink":"http://economictimes.indiatimes.com/subscription"
+        },
+        {
+            "id":16,
+            "companyName":" Times Internet (Times Of India) ET.COM ",
+            "projectName":"Subscription WAP - The Economic Times",
+            "projectDuration": "July 2016 to January 2017",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Json, API, Sprite Image CMS etc.",
+            "projectDescription":"All subscription flow created with code, code clean ",
+            "projectLink":"http://m.economictimes.com/subscription"
+        },
+        {
+            "id":15,
+            "companyName":" Times Internet (Times Of India) ET.COM ",
+            "projectName":"Admin Panel - The Economic Times",
+            "projectDuration": "January 2016 to Till Now",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Json, API, Sprite Image CMS etc.",
+            "projectDescription":"Many Panel Create internal Panel with shop to reports with data, Click rate, subscription list, user base  ",
+            "projectLink":"http://economictimes.indiatimes.com"
+        },
+        {
+            "id":14,
+            "companyName":" wincere pvt ltd. ",
+            "projectName":"wincere - Healt care Products ",
+            "projectDuration": "August 2014 to May 2015",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Sprite Image, Bootstrap, Less, Angular Js etc.",
+            "projectDescription":"We developed our own product for Public, Private sectors. I'm working on UI Development in HTML5, CSS3, jQuery/javaScript, LESS, and bootstrap, Angular Js. Here I learned Angular Js.",
+            "projectLink":"http://wincere.com/"
+        },
+        {
+            "id":13,
+            "companyName":" hcentive ",
+            "projectName":"hcentive - Online Benefits Management Software for Insurance Brokers",
+            "projectDuration": "Febuary 2013 to August 2014",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Sprite Image, Bootstrap, Less etc.",
+            "projectDescription":"We developed our own product/portals for US Medical Healthcare Insurance for Public, Private sectors, Admin, Exchange admin. I'm working on UI Development in HTML5, CSS3, jQuery/javaScript. Here I learned working on LESS, and bootstrap.",
+            "projectLink":"https://www.hcentive.com/"
+        },
+        {
+            "id":12,
+            "companyName":" ophio computer solution",
+            "projectName":"fueled - software development",
+            "projectDuration": "May  2012 to January 2013",
+            "technologyUsed": "HTML5, Css3, JavaScript, Jquery, Sprite Image etc.",
+            "projectDescription":"Software Development company ",
+            "projectLink":"https://fueled.com/"
+        },
+        {
+            "id":11,
+            "companyName":" cil",
+            "projectName":"futureyears :- Retirement Planning Portal",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, Css, Jquery, XHTML etc.",
+            "projectDescription":"Site update, slider, form, code updated.",
+            "projectLink":"http://www.futureyears.com/"
+        },
+        {
+            "id":10,
+            "companyName":" cil",
+            "projectName":"Chrismas Portal - All Christmas Decorations, Celebration, Accessories Gifts",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, Css, Jquery, XHTML, Sprite etc.",
+            "projectDescription":"Create home page and some internal page, Site update, slider, form, code updated.",
+            "projectLink":"http://www.christmascarnivals.com/"
+        },
+        {
+            "id":9,
+            "companyName":"cil ",
+            "projectName":"Valentine Portal - Valentine's day, Love Quotes, Love Poems, Love Messages, Relationships, Gift Ideas",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, Css, Jquery, XHTML, Sprite etc.",
+            "projectDescription":"Site update, code clean, form, code updated.",
+            "projectLink":"http://www.mydearvalentine.com/"
+        },
+        {
+            "id":8,
+            "companyName":"cil ",
+            "projectName":"Compare Infobase Ltd - Compare Infobase Limited",
+            "projectDuration": "August 2011 to September 2011",
+            "technologyUsed": "HTML, Css, XHTML, Jquery etc.",
+            "projectDescription":"Site theme",
+            "projectLink":"http://infobase.co.in/"
+        },
+        {
+            "id":7,
+            "companyName":" cil",
+            "projectName":"Indian Tour and Travel Portal",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, XHTML, Css, Jquery etc.",
+            "projectDescription":" Site update, code clean, form, code updated.",
+            "projectLink":"http://www.indiatravelportal.com/"
+        },
+        {
+            "id":6,
+            "companyName":"cil ",
+            "projectName":"HoneyMoon in India Portal",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, XHTML, Css, Jquery",
+            "projectDescription":"Some internal page theme, Site update, code clean, form, code updated.",
+            "projectLink":"http://www.honeymooninindia.com/"
+        },
+        {
+            "id":5,
+            "companyName":"cil ",
+            "projectName":"DGreetings - offers Messages, Cards, Greetings, Quotes, Gift ideas for sharing & sending.",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, Css3, Css, Sprite image, Jquey etc.",
+            "projectDescription":"Some internal page theme, Site update, code clean, form, code updated.",
+            "projectLink":"http://www.dgreetings.com/"
+        },
+        {
+            "id":4,
+            "companyName":"cil ",
+            "projectName":"Education Portal - ",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, Css3, Css, Sprite image, Jquey etc.",
+            "projectDescription":"Some internal page theme, Site update, code clean, form, code updated.",
+            "projectLink":"http://www.indiaedu.com/"
+        },
+        {
+            "id":3,
+            "companyName":" cil",
+            "projectName":"Naukri Hub Portal  - A leading salary portal in India to get complete information on salaries offered by Indian companies in different verticals.",
+            "projectDuration": "June 2011 to March 2012",
+            "technologyUsed": "HTML, Css3, Css, Sprite image, Jquey etc.",
+            "projectDescription":"Some internal page theme, Site update, code clean, form, code updated.",
+            "projectLink":"http://www.naukrihub.com/"
+        },
+        {
+            "id":2,
+            "companyName":" cil",
+            "projectName":"Holidays by landmark - Travel Portal",
+            "projectDuration": "January 2012 to January 2012",
+            "technologyUsed": "HTML, Css3, Css, Sprite image, Jquey etc.",
+            "projectDescription":"Hole site created by me with internal pages.",
+            "projectLink":"http://www.holidaysbylandmark.com/"
+        },
+        {
+            "id":1,
+            "companyName":"cil ",
+            "projectName":"Events by landmark - Travel Portal",
+            "projectDuration": "January 2012 to January 2012",
+            "technologyUsed": "HTML, Css3, Css, Sprite image, Jquey etc.",
+            "projectDescription":"Hole site created by me with internal pages.",
+            "projectLink":"http://www.eventsbylandmark.com/"
+        }
+        
+        
+        
+    ]}
+]

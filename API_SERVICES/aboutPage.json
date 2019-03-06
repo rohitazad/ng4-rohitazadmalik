@@ -1,0 +1,26 @@
+[
+    {"aboutHeader":[
+        "I’m a <strong>User Interface Developer</strong>   with about <strong>9 + years</strong> of experience.  I like to work with passion for building cutting-edge, rich user interface with a nice coding standard and keep W3C web-standard in mind.",
+        "I earned the trust of my managers, stakeholders and clients & was soon working all shifts and filling in during the manager’s absence. "
+      ]},
+     {"aboutHighLight":[
+         "Writing semantic markup that is documented and easy to read means it can be maintained and scaled in the future, and allows co-workers to quickly pick it up.",
+         "UI testing (pixel to pixel mapping from creative assets)",
+         "Experienced with mobile compatible website development",
+         "Experience of hand coding table-less web pages for using CSS, JavaScript, XHTML",
+         "Performing regular maintenance, corrections and updates on the websites",
+         "Good Understanding of Table less Websites, e-Mailers, e-Newsletters, Promotion Banners (Web) etc.",
+         "Bootstrap,  LESS CSS Framework, HTML5, Css3, JavaScript, Jquery",
+         "Good knowledge of Dreamweaver, Photoshop.",
+         "100% capable in Cross Browser Compatibilities issues.",
+         "Debugging of all UI issues.",
+         "Strong understanding of SEO concepts"
+     ]},
+     {"expert" : "Expertise in the front end designing and development for various sectors like Sports, Education, E- commerce, Media, Government, Finance and various MNC companies. Using latest standards For markup and CSS with SEO friendly coding, content separation. High quality code with Flexibility, cross-browser compatible and image replacement techniques. E- Commerce And Content management sites using CMS themes."},
+     {"educationData":[
+        {"postDeg":"Master of Art"},
+        {"deg":"Bachelor Degree"},
+        {"webCer":"Web Designing Diploma"},
+        {"webCer2":"Computer HardWare & Networking  Diploma"}
+     ]}
+]
